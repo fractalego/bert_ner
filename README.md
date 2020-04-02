@@ -44,8 +44,8 @@ With output
 The Ontonotes 5 dataset can be downloaded from the [LDC website](https://catalog.ldc.upenn.edu/LDC2013T19).
 
 ## Results
-I took measured the results both with and without BIOS tags. 
-They don't seem to make much difference.
+I measured the results both with and without BIOS tags. 
+The BIOES tags don't seem to make much difference.
 
 ### NO BIOES
 
