@@ -13,7 +13,7 @@ setup(name='bert_ner',
       long_description_content_type="text/markdown",
       packages=['bert_ner'],
       install_requires=[
-          'numpy==1.18.1',
+          'numpy==1.22.0',
           'transformers==2.5.1',
           'pytorch-transformers==1.2.0',
       ],
