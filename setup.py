@@ -14,7 +14,7 @@ setup(name='bert_ner',
       packages=['bert_ner'],
       install_requires=[
           'numpy==1.18.1',
-          'transformers==2.5.1',
+          'transformers==4.30.0',
           'pytorch-transformers==1.2.0',
       ],
       classifiers=[
